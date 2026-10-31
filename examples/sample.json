@@ -1,0 +1,11 @@
+{
+  "minimum_free_pct": 20,
+  "claims": [
+    {
+      "name": "web-disk",
+      "phase": "Bound",
+      "capacity_gib": 100,
+      "used_gib": 50
+    }
+  ]
+}
